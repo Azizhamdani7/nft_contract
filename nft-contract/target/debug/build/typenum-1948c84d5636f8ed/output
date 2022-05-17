@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/op.rs

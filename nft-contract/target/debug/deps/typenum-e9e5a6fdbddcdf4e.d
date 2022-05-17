@@ -1,0 +1,18 @@
+/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/deps/typenum-e9e5a6fdbddcdf4e.rmeta: /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/op.rs /home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/consts.rs
+
+/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/deps/typenum-e9e5a6fdbddcdf4e.d: /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs /home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs /home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/op.rs /home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/consts.rs
+
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/lib.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/bit.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/int.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/marker_traits.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/operator_aliases.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/private.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/type_operators.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/uint.rs:
+/home/aziz/.cargo/registry/src/github.com-1ecc6299db9ec823/typenum-1.12.0/src/array.rs:
+/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/op.rs:
+/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/consts.rs:
+
+# env-dep:TYPENUM_BUILD_CONSTS=/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/consts.rs
+# env-dep:TYPENUM_BUILD_OP=/home/aziz/Desktop/gitPrectice/NFT-Contract/nft-contract/target/debug/build/typenum-1948c84d5636f8ed/out/op.rs
